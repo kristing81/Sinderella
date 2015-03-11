@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Sinderella::VERSION
   spec.authors       = ["Kristin Gonzalez"]
   spec.email         = ["kristingonzalez81@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = 'Transform data for short period of time'
+  spec.description   = 'Allows authors to pass a code block to transform data object for a specific period of time'
+  spec.homepage      = 'https://github.com/kristing81/Sinderella'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
