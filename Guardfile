@@ -8,4 +8,4 @@ guard 'rspec' do
   watch(%r{^spec/(.+).rb$}) do |m|
     "spec/#{m[1]}.rb"
   end
-en
+end

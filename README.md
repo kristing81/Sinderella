@@ -1,6 +1,8 @@
 # Sinderella
+Ruby gem which will allow authors to pass a code block to transform a data object for a specific period of time.
 
-TODO: Write a gem description
+Created based on [this](http://www.smashingmagazine.com/2014/04/08/how-to-build-a-ruby-gem-with-bundler-test-driven-development-travis-ci-and-coveralls-oh-my/) tutorial.
+
 
 ## Installation
 
@@ -16,14 +18,9 @@ Or install it yourself as:
 
     $ gem install sinderella
 
-## Usage
 
-TODO: Write usage instructions here
+[![Build Status](https://travis-ci.org/Integralist/Sinderella.png?branch=master)](https://travis-ci.org/kristing81/Sinderella) 
 
-## Contributing
+[![Gem Version](https://badge.fury.io/rb/sinderella.png)](http://badge.fury.io/rb/sinderella)
 
-1. Fork it ( https://github.com/[my-github-username]/sinderella/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+[![Coverage Status](https://coveralls.io/repos/kristing81/Sinderella/badge.svg)](https://coveralls.io/r/kristing81/Sinderella)
